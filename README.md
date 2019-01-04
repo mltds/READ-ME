@@ -10,7 +10,7 @@ mltds = MLTDS = Multi-Dimensions，我们生活在一个多维的空间里（或
   * APM框架
   * 分布式事物Sagas框架
   * 分库分表框架
-  * 配置管理框架
+  * [配置管理框架](https://github.com/mltds/config)
   * ..... 等等
 
 ## 想要加入我们？
