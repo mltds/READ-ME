@@ -12,4 +12,4 @@ mltds = MLTDS = Multi-Dimensions，我们生活在一个多维的空间里（或
   * ..... 等等
 
 # 想要加入我们？
-可以写[邮件](mail://alex.sun.email@gmail.com)给我哦,非常欢迎新的伙伴加入
+可以写邮件 <alex.sun.email@gmail.com> 给我哦,非常欢迎新的伙伴加入
